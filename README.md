@@ -32,4 +32,4 @@ This project contains a simple UI with a circular element and two buttons. The f
 
 ## Hosted Link
 
-View the live version of the project [here]().
+View the live version of the project [here](https://praven-change-color-shape.netlify.app/).
